@@ -3,6 +3,7 @@
 ================
 
 A personal portfolio website built with Next.js, React, and TypeScript.
+Live - https://ayush-portfolio-render.onrender.com/
 
 ## Overview
 
